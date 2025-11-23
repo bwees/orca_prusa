@@ -2,6 +2,8 @@
 
 An extensible, modular converter for converting PrusaSlicer INI profiles to OrcaSlicer JSON format.
 
+Claude was heavily used for the creation of the conversion script as it is excellent at parsign large amounts of configs and creating converters.
+
 ## Features
 
 - **Modular Architecture**: Built with a flexible converter system that supports 1:1 mappings, multi-key mappings, split conversions, and custom logic
